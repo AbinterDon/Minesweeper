@@ -1,0 +1,9 @@
+C:\東\台北市\小程式\踩地雷\踩地雷\bin\Release\踩地雷.exe
+C:\東\台北市\小程式\踩地雷\踩地雷\bin\Release\踩地雷.pdb
+C:\東\台北市\小程式\踩地雷\踩地雷\bin\Release\踩地雷.xml
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\踩地雷.vbproj.GenerateResource.Cache
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\踩地雷.exe
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\踩地雷.xml
+C:\東\台北市\小程式\踩地雷\踩地雷\obj\x86\Release\踩地雷.pdb
